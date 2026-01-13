@@ -11,6 +11,8 @@
 > **Note:** This repository serves as a public showcase of the project. The source code is proprietary as this project is being developed into a commercial product.
 
 ---
+<img width="1512" height="866" alt="Screenshot 2026-01-12 at 7 54 05 PM" src="https://github.com/user-attachments/assets/b487d746-ffb6-4bfd-8d15-f3a3819cfd9b" />
+
 
 ## ✨ Key Features
 
