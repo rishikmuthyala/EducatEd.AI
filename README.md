@@ -12,8 +12,7 @@
 
 ---
 ## 🎓 Click to Watch Demo Now
-
-<img width="1512" height="866" alt="Screenshot 2026-01-12 at 7 54 05 PM" src="https://github.com/user-attachments/assets/b487d746-ffb6-4bfd-8d15-f3a3819cfd9b" />
+[![Screenshot 2026-01-12 at 7 54 05 PM](https://github.com/user-attachments/assets/b487d746-ffb6-4bfd-8d15-f3a3819cfd9b)](https://www.youtube.com/watch?v=3zOFGK7cXj8)
 
 
 ## ✨ Key Features
