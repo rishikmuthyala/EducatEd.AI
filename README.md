@@ -132,14 +132,6 @@ Explanations appear as smooth overlays—main video always visible
 
 ---
 
-## 🏆 Recognition
-
-- **🥇 NexHacks 2025** - Education Track Winner ($50,000)
-- **🎖️ Best Use of ElevenLabs** - Innovation Prize ($10,000)
-- Competing among 1000+ hackers at Carnegie Mellon
-
----
-
 ## 🚀 Roadmap
 
 **✅ Completed (MVP)**
@@ -172,34 +164,9 @@ Explanations appear as smooth overlays—main video always visible
 
 ---
 
-## 👨‍💻 About
-
-**Built by Rishik Muthyala**
-
-- CS & Math @ UMass Amherst
-- AI Engineer @ Handshake AI Solutions
-- Previously: MITRE Corporation (DoD Systems)
-- Track Record: FoundU (30k users), Streakify, Relate
-
-**Why I Built This**: Failed a calc quiz because I got stuck on one YouTube lecture concept. 78% of students face this. No good solution existed.
-
----
-
 ## 📄 License
 
 **Proprietary** - Commercial product under development. Code not open source.
-
----
-
-## 🤝 Contact
-
-**Interested in FrameShift?**
-
-- 📧 Email: rishik@frameshift.app
-- 💼 LinkedIn: [linkedin.com/in/rishikmuthyala](YOUR_LINKEDIN)
-- 🌐 Website: [frameshift.app](YOUR_DEMO)
-
-**For Investors**: Reach out to discuss seed funding.
 
 ---
 
@@ -215,4 +182,4 @@ Explanations appear as smooth overlays—main video always visible
 
 ---
 
-**Note:** This repository showcases the project. Source code is proprietary as FrameShift is being developed as a commercial product.
+**Note:** This repository showcases the project. Source code is proprietary as EducatEd.AI is being developed as a commercial product.
