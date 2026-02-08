@@ -76,47 +76,6 @@ Explanations appear as smooth overlays—main video always visible
 - Auto-resume or manual control
 - Never navigate away from learning
 
----
-
-## 🛠️ Tech Stack
-
-**AI Pipeline** (5 Models Working Together):
-- **Whisper** - Transcribe video context
-- **Claude-3.5** - Extract confused concept
-- **DALL-E 3** - Generate explanation diagrams
-- **ElevenLabs** - Create narration
-- **MoviePy** - Compose final video
-
-**Backend**:
-- FastAPI with async orchestration
-- Redis caching for performance
-- Event-driven architecture
-- Handles 50+ concurrent requests
-
-**Frontend**:
-- Next.js 14 + React + TypeScript
-- WebSocket for real-time updates
-- TailwindCSS for styling
-
-**Data**:
-- PostgreSQL for metadata
-- Cloud storage for videos
-
----
-
-## 📊 Performance
-
-| Metric | Value |
-|--------|-------|
-| **Generation Time** | 35 seconds average |
-| **Success Rate** | 95% across 150+ videos |
-| **Latency Improvement** | 61% faster (optimized from 90s) |
-| **Categorization Accuracy** | 94% with Claude API |
-| **Concurrent Requests** | 50+ handled simultaneously |
-| **UI Response** | <100ms transitions |
-| **Beta Users** | 200+ active students |
-
----
 
 ## 🎯 Use Cases
 
@@ -153,17 +112,6 @@ Explanations appear as smooth overlays—main video always visible
 
 ---
 
-## 📈 Market Opportunity
-
-**$88 Billion Global EdTech Market**
-
-**Our Position**:
-- Replace Chegg ($20/mo) with better AI at $14.99/mo
-- First real-time video explanation platform
-- Clear path: Students → Universities → Enterprise
-
----
-
 ## 📄 License
 
 **Proprietary** - Commercial product under development. Code not open source.
@@ -173,10 +121,6 @@ Explanations appear as smooth overlays—main video always visible
 <div align="center">
 
 ### FrameShift - Making confusion optional in education
-
-**Built with ❤️ and 5 AI models**
-
-⭐ Star this repo if you're interested in AI-powered education
 
 </div>
 
